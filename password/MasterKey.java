@@ -60,7 +60,7 @@ public class MasterKey extends Password{
 		super(string);
 	}
 		
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		Wallet w = new Wallet();
 		System.out.println("-----------------------Generated codes are-------------------------");
 		for(var i: w.passCodes)
@@ -68,5 +68,5 @@ public class MasterKey extends Password{
 		System.out.println(counter+" tries occour to harness "+count+" codes processing yield is "+ (100-(float)counter/count)+"%");
 		System.out.println("----------------------------Odem/\\Codes-----------------------------\n"+w);
 		
-	}	
+	}	*/
 }
